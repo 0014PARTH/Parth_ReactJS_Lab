@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "payer": "Person A",
+      "description": "Rent",
+      "amount": 1000,
+      "date": "2024-09-01"
+    },
+    {
+      "id": 2,
+      "payer": "Person B",
+      "description": "Groceries",
+      "amount": 500,
+      "date": "2024-09-02"
+    },
+    {
+      "id": "6433",
+      "payer": "Person A",
+      "description": "Grocery",
+      "amount": 2200,
+      "date": "2024-09-01"
+    }
+  ]
+}
